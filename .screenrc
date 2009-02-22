@@ -1,0 +1,5 @@
+source $HOME/.screenrc
+
+screen 0
+stuff "vim -S \015"
+screen 1
