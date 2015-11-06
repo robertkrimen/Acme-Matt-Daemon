@@ -13,8 +13,6 @@ SYNOPSIS
 DESCRIPTION
     MATT DAEMON
 
-    <http://www.youtube.com/watch?v=ZWTzyU5MFgM>
-
     Acme::Matt::Daemon will daemonize and output MATT DAEMON to your syslog
     at every 15 to 60 minutes (randomly). Enjoy!
 
